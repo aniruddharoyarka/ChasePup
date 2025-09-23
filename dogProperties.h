@@ -1,0 +1,6 @@
+#ifndef DOGPROPERTIES_HPP
+#define DOGPROPERTIES_HPP
+
+
+
+#endif
