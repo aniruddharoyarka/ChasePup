@@ -10,7 +10,7 @@ To  create a reflex-based game in which players dodge obstacles, collect rewards
 ## Features
 - **Auto Running Mechanic:** The puppy keeps moving forward automatically that allows the players to focus on timing their jump.
 - **Click to Jump:** Simple and accessible control to jump.
-- **COllectibles:** Bones can be redeemed to revive the puppy and stars are necessary to unlock levels. 
+- **Collectibles:** Bones can be redeemed to revive the puppy and stars are necessary to unlock levels. 
 
 
 
