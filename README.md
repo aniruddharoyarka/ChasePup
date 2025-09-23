@@ -61,6 +61,7 @@ Click on the screen to make the pup jump over monsters and obstacles. Collect St
 2. Ushriba Rahman
 
 ## Screenshots
+![homeScreen](https://github.com/user-attachments/assets/47fb124e-1d48-4f44-8f57-18eb3b0e39ca)
 
 ### **Menu**
 <img src="[https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd](https://github.com/user-attachments/assets/90e5906c-7159-4b25-b138-70d5256df4db)" width="200" height="200">
@@ -69,7 +70,7 @@ Click on the screen to make the pup jump over monsters and obstacles. Collect St
 <img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
 
 ## Youtube Link
-[CSE 1200 Project: The Fallen Kingdom](https://www.youtube.com/)
+[CSE 1200 Project: Chase Pup](https://www.youtube.com/watch?v=qgPFe_EH-0E)
 
 ## Project Report
 [Project Report: The Fallen Kingdom](https://drive.google.com/drive/u/1/my-drive)
