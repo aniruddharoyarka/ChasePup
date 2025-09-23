@@ -63,7 +63,7 @@ Click on the screen to make the pup jump over monsters and obstacles. Collect St
 ## Screenshots
 
 ### **Menu**
-<img src="https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd" width="200" height="200">
+<img src="[https://github.com/user-attachments/assets/812b978b-b4f9-4cc2-8116-067f85e943bd](https://github.com/user-attachments/assets/90e5906c-7159-4b25-b138-70d5256df4db)" width="200" height="200">
 
 ### **Character**
 <img src="https://github.com/user-attachments/assets/5c8a5fbb-6ebf-48cd-bff0-8235e79d9773" width="200" height="200">
