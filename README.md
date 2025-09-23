@@ -57,8 +57,8 @@ Click on the screen to make the pup jump over monsters and obstacles. Collect St
 
 ## Project Contributors
 
-1. Ushriba Rahman
-2. Aniruddha Roy Arka
+1. Aniruddha Roy Arka
+2. Ushriba Rahman
 
 ## Screenshots
 
